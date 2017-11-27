@@ -1,0 +1,85 @@
+.navbar{
+  width: 100%;
+  border-bottom: 1px solid;
+  padding: 15px;
+}
+
+.scheduleShift{
+  border: 1px solid;
+}
+
+.scheduleWrapper{
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  grid-gap: 10px;
+  grid-auto-rows: minmax(40px, auto);
+}
+
+.shiftWrapper{
+    display: grid;
+    grid-auto-rows: minmax(40px, auto);
+    grid-gap: 10px;
+}
+
+.shift{
+  border: 1px solid;
+  grid-row: 1;
+  grid-column: auto;
+}
+
+.Monday{
+  grid-column: 1;
+}
+.Tuesday{
+  grid-column: 2;
+}
+.Wednesday{
+  grid-column: 3;
+}
+.Thursday{
+  grid-column: 4;
+}
+.Friday{
+  grid-column: 5;
+}
+.Saturday{
+  grid-column: 6;
+}
+.Sunday{
+  grid-column: 7;
+}
+
+
+.shift0{
+  grid-row: 1;
+}
+.shift1{
+  grid-row: 2;
+}
+.shift2{
+  grid-row: 3;
+}
+.shift3{
+  grid-row: 4;
+}
+.shift4{
+  grid-row: 5;
+}
+.shift5{
+  grid-row: 6;
+}
+.shift6{
+  grid-row: 7;
+}
+.shift7{
+  grid-row: 8;
+}
+.shift8{
+  grid-row: 9;
+}
+.shift9{
+  grid-row: 10;
+}
+.shift10{
+  grid-row: 11;
+}

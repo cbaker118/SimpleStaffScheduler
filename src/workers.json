@@ -1,0 +1,82 @@
+{
+	"dana": {
+		"availability": [
+			[//monday
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//tuesday
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//wed
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//thur
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//fri
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//sat
+			],
+			[//sun
+			]
+		]
+	},
+	"david":{
+		"availability": [
+			[//monday
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//tuesday
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//wed
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//thur
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//fri
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//sat
+				{
+					"start": "6:30 am",
+					"end": "8:00 pm"
+				}
+			],
+			[//sun
+			]
+		]
+	}
+}
